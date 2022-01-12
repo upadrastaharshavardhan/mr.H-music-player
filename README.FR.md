@@ -1,4 +1,4 @@
-<img width="125px" src="https://github.com/upadrastaharshavardhan/mr.H-music-player/blob/main/assets/icon-white-trans.png" align="center" />
+<img width="125px" src="https://github.com/upadrastaharshavardhan/mr.H-music-player/blob/main/LOGO/wnl1g0ch4vv41.jpg" align="center" />
 
 # mr.H-music-player
 
