@@ -1,5 +1,5 @@
 # mr.H-music-player
-![Repo Banner](https://github.com/upadrastaharshavardhan/mr.H-music-player/blob/main/LOGO/MR.png)
+<img src=(https://github.com/upadrastaharshavardhan/mr.H-music-player/blob/main/LOGO/MR.png)>
 
 An Open-Source Music Player App for all your needs!
 
