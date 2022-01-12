@@ -1,5 +1,6 @@
 # mr.H-music-player
-![Repo Banner](https://github.com/upadrastaharshavardhan/mr.H-music-player/blob/main/LOGO/wnl1g0ch4vv41.jpg)
+
+![Repo Banner]<img src=(https://github.com/upadrastaharshavardhan/mr.H-music-player/blob/main/LOGO/wnl1g0ch4vv41.jpg)>
 
 
 
@@ -9,7 +10,7 @@ An Open-Source Music Player App for all your needs!
 
 [![made-with-flutter](https://img.shields.io/badge/Made%20with-Flutter-1f425f.svg)](https://flutter.dev/) ![Release](https://img.shields.io/github/v/release/upadrastaharshavardhan/mr.H-music-player) ![Downloads](https://img.shields.io/github/downloads/upadrastaharshavardhan/mr.H-music-player/total)
 [![Build](https://github.com/upadrastaharshavardhan/mr.H-music-player/actions/workflows/flutter.yml/badge.svg)](https://github.com/upadrastaharshavardhan/mr.H-music-player/actions/workflows/flutter.yml)
-[![Translation-Status](https://hosted.weblate.org/widgets/mr.H-music-player/-/translations/svg-badge.svg)](https://hosted.weblate.org/engage/mr.H-music-player)
+
 
 ### Dont forget to :star: the repo
 
