@@ -134,7 +134,7 @@ You can join our [Telegram Channel](https://t.me/mr.H-music-player_official) or 
 
 To read full changelog visit the [wiki page](https://github.com/upadrastaharshavardhan/mr.H-music-player/wiki/Changelog)
 
-  Download BlackHole Now
+  Download mr.H-music-player Now
             </div>
             <div class="row">
               <div class="col-md-4 col-sm-12">
