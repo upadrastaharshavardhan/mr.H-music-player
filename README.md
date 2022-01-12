@@ -133,3 +133,69 @@ You can join our [Telegram Channel](https://t.me/mr.H-music-player_official) or 
 ## What's New
 
 To read full changelog visit the [wiki page](https://github.com/upadrastaharshavardhan/mr.H-music-player/wiki/Changelog)
+
+  Download BlackHole Now
+            </div>
+            <div class="row">
+              <div class="col-md-4 col-sm-12">
+                <a class="aa-apple" href="#download">
+                  <div class="card">
+                    <div class="row pb-3">
+                      <div class="col-lg-3 col-md-12 aa-download-icon">
+                        <i
+                          class="pt-4 fab fa-apple fa-4x"
+                          aria-hidden="true"
+                        ></i>
+                      </div>
+                      <div class="col-lg-9 col-md-12 aa-download-icon-detail">
+                        <div class="h4 pb-1">iOS</div>
+                        <p class="text-muted">Releasing Soon!</p>
+                      </div>
+                    </div>
+                  </div></a
+                >
+              </div>
+              <div class="col-md-4 col-sm-12">
+                <a
+                  class="aa-android"
+                  href="https://github.com/Sangwan5688/BlackHole/releases"
+                >
+                  <div class="card">
+                    <div class="row pb-3">
+                      <div class="col-lg-3 col-md-12 aa-download-icon">
+                        <i
+                          class="pt-4 fab fa-android fa-4x"
+                          aria-hidden="true"
+                        ></i>
+                      </div>
+                      <div class="col-lg-9 col-md-12 aa-download-icon-detail">
+                        <div class="h4 pb-1">Android</div>
+                        <p class="text-muted">Download from GitHub</p>
+                      </div>
+                    </div>
+                  </div></a
+                >
+              </div>
+              <div class="col-md-4 col-sm-12">
+                <a class="aa-windows" href="#download">
+                  <div class="card">
+                    <div class="row pb-3">
+                      <div class="col-lg-3 col-md-12 aa-download-icon">
+                        <i
+                          class="pt-4 fab fa-windows fa-4x"
+                          aria-hidden="true"
+                        ></i>
+                      </div>
+                      <div class="col-lg-9 col-md-12 aa-download-icon-detail">
+                        <div class="h4 pb-1">Windows</div>
+                        <p class="text-muted">Releasing Soon!</p>
+                      </div>
+                    </div>
+                  </div></a
+                >
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
