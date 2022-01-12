@@ -25,9 +25,7 @@ Superbe Lecteur de Musique fait avec Flutter !
      alt="Téléchargez le depuis GitHub"
      height="60">](https://github.com/upadrastaharshavardhan/mr.H-music-player/releases)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://github.com/upadrastaharshavardhan/mr.H-music-player"
-     alt="Rejoignez le Canal Telegram"
-     height="60">](https://github.com/upadrastaharshavardhan/mr.H-music-player)
+
 
 
 
