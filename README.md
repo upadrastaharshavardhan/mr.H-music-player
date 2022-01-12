@@ -229,4 +229,3 @@ To read full changelog visit the [wiki page](https://github.com/upadrastaharshav
           </div>
         </div>
       </div>
-    </footer>
