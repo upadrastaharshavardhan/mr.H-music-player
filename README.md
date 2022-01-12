@@ -137,10 +137,10 @@ To read full changelog visit the [wiki page](https://github.com/upadrastaharshav
   Download mr.H-music-player Now
    
 
-        <div class="aa-download-section section bg-gradient" id="download">
+  <div class="aa-download-section section bg-gradient" id="download">
           <div class="container">
             <div class="h2 text-center text-title text-white pb-5">
-              Download BlackHole Now
+              Download mr.H-music-player Now
             </div>
             <div class="row">
               <div class="col-md-4 col-sm-12">
