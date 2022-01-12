@@ -1,5 +1,5 @@
 # mr.H-music-player
-![Repo Banner](https://user-images.githubusercontent.com/87353286/144381080-faf8e557-7909-43a1-a8e2-208936e5a8f8.png)
+![Repo Banner](https://github.com/upadrastaharshavardhan/mr.H-music-player/blob/main/LOGO/wnl1g0ch4vv41.jpg)
 
 
 
