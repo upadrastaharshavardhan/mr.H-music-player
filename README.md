@@ -135,6 +135,12 @@ You can join our [Telegram Channel](https://t.me/mr.H-music-player_official) or 
 To read full changelog visit the [wiki page](https://github.com/upadrastaharshavardhan/mr.H-music-player/wiki/Changelog)
 
   Download mr.H-music-player Now
+   
+
+        <div class="aa-download-section section bg-gradient" id="download">
+          <div class="container">
+            <div class="h2 text-center text-title text-white pb-5">
+              Download BlackHole Now
             </div>
             <div class="row">
               <div class="col-md-4 col-sm-12">
@@ -158,7 +164,7 @@ To read full changelog visit the [wiki page](https://github.com/upadrastaharshav
               <div class="col-md-4 col-sm-12">
                 <a
                   class="aa-android"
-                  href="https://github.com/padrastaharshavardhan/mr.H-music-player/releases"
+                  href="https://github.com/upadrastaharshavardhan/mr.H-music-player/releases"
                 >
                   <div class="card">
                     <div class="row pb-3">
@@ -199,3 +205,28 @@ To read full changelog visit the [wiki page](https://github.com/upadrastaharshav
         </div>
       </div>
     </div>
+    <footer class="footer-black aa-footer">
+      <div class="container py-5">
+        <div class="row text-center">
+          <div class="col-md-12">
+            <a
+              class="btn btn-link btn-neutral"
+              href="https://github.com/upadrastaharshavardhan/mr.H-music-player"
+              ><i class="fab fa-github fa-2x" aria-hidden="true"></i
+            ></a>
+            <a
+              class="btn btn-link btn-neutral"
+              href=""
+              ><i class="fab fa-telegram-plane fa-2x" aria-hidden="true"></i
+            ></a>
+            <div class="col-md-12">
+              <p class="mt-3">
+                Copyright &copy; <span id="copy-year">2021</span> mr.H-music-player. All
+                rights reserved.<br />Design -
+                <a href="#" target="">GeekSpark</a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
