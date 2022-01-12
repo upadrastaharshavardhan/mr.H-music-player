@@ -5,7 +5,7 @@
 Before you begin:
 - This project is powered by Flutter. Make sure you have the latest version of Flutter.
 - Have you read the [code of conduct](CODE_OF_CONDUCT.md)?
-- Make sure to check if an [issue exists](https://github.com/Sangwan5688/BlackHole/issues) already & see if the issue is assigned to anyone or not.
+- Make sure to check if an [issue exists](https://github.com/upadrastaharshavardhan/mr.H-music-player/issues) already & see if the issue is assigned to anyone or not.
 - If no one is assigned you can start working on the issue.
 - Make sure to leave a comment stating that you are working on the issue.
 
@@ -15,7 +15,7 @@ If the issue is already assigned to someone, leave a comment asking how you can 
 
 ### Don't see your issue? Open one
 
-If you spot something new, open an issue using a [template](https://github.com/Sangwan5688/BlackHole/issues/new/choose). We'll use the issue to have a conversation about the problem you want to fix.
+If you spot something new, open an issue using a [template](https://github.com/upadrastaharshavardhan/mr.H-music-player/issues/new/choose). We'll use the issue to have a conversation about the problem you want to fix.
 
 ### Ready to make a change? Fork the repo
 
@@ -46,7 +46,7 @@ When you're done making changes and you'd like to propose them for review, open 
 ### Your PR is merged!
 Congratulations! The whole community thanks you. :sparkles:
 
-Once your PR is merged, you will be proudly listed as a contributor in the [contributor chart](https://github.com/Sangwan5688/BlackHole/graphs/contributors).
+Once your PR is merged, you will be proudly listed as a contributor in the [contributor chart](https://github.com/upadrastaharshavardhan/mr.H-music-player/graphs/contributors).
 
 ### Self review
 You should always review your own PR first.
@@ -56,4 +56,5 @@ For content changes, make sure that you:
 - [ ] Compare your pull request's source changes to staging to confirm that the output matches the source and that everything is rendering as expected. This helps spot issues like typos, content that doesn't follow the style guide, or content that isn't rendering due to versioning problems.
 - [ ] Review the content for technical accuracy.
 - [ ] Copy-edit the changes for grammar or spelling mistakes.
+- [ harsha](https://github.com/upadrastaharshavardhan/mr.H-music-player).
 
