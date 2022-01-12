@@ -158,7 +158,7 @@ To read full changelog visit the [wiki page](https://github.com/upadrastaharshav
               <div class="col-md-4 col-sm-12">
                 <a
                   class="aa-android"
-                  href="https://github.com/Sangwan5688/BlackHole/releases"
+                  href="https://github.com/padrastaharshavardhan/mr.H-music-player/releases"
                 >
                   <div class="card">
                     <div class="row pb-3">
