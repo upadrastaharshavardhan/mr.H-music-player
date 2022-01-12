@@ -1,6 +1,7 @@
 # mr.H-music-player
 
-![Repo Banner](https://github.com/upadrastaharshavardhan/mr.H-music-player/blob/main/LOGO/MR.png)
+![Repo Banner](https://github.com/upadrastaharshavardhan/mr.H-music-player/blob/main/LOGO/MR.png ' https://github.com/upadrastaharshavardhan/mr.H-music-player/blob/main/LOGO/wnl1g0ch4vv41.jpg)
+
 
 
 
